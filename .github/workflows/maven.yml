@@ -53,4 +53,3 @@ jobs:
         run: |
           echo "✅ Build succeeded!"
           echo "🚀 Simulating deployment process..."
-          echo "In a real-world scenario, this step would deploy your app to Heroku, Render, or AWS."
